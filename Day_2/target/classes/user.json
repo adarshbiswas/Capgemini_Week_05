@@ -1,0 +1,9 @@
+{
+  "name": "Arijit Singh",
+  "age": 35,
+  "email": "arijit@google.org",
+  "address": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh"
+  }
+}
